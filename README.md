@@ -1,8 +1,12 @@
-# React + Vite
+# DevOps Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet est destiné à valider les connaissances en DevOps des élèves de 3ème année d'informatique.
 
-Currently, two official plugins are available:
+## Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clonez ce repository.
+2. Implémentez les GitHub Actions pour exécuter les tests unitaires.
+3. Affichez les résultats des tests dans ce fichier README.
+4. Implémentez une github action pour déployer automatiquement le site sur un hebergement gratuit (Netlify)
+
+## Test Results
