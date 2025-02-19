@@ -6,32 +6,42 @@ const App = () => {
   return (
     <div className="container">
       <header>
-        <h1>🚀 Déploiement Automatisé avec GitHub Actions & Netlify</h1>
-        <p>Un projet DevOps qui assure un déploiement 100% automatisé !</p>
+        <h1>🚀 DevOps CI/CD Live</h1>
+        <p>Déploiement automatisé avec GitHub Actions & Netlify</p>
       </header>
 
-      <section className="intro">
-        <h2>Pourquoi ce projet est impressionnant ?</h2>
-        <p>✔️ Tests automatisés avec GitHub Actions</p>
-        <p>✔️ Déploiement en continu sur Netlify</p>
-        <p>✔️ Code optimisé et documenté</p>
+      {/* Section des Badges */}
+      <section className="badges">
+        <h2>📊 Statut des Builds</h2>
+        <div className="badges-container">
+          <div className="badge">
+            <h3>Statut des Tests GitHub</h3>
+            <img
+              src="https://github.com/theblackhat17/CC1-DEVOPS-3INFO/actions/workflows/test.yml/badge.svg"
+              alt="Statut des tests GitHub Actions"
+            />
+          </div>
+          <div className="badge">
+            <h3>Statut du Déploiement Netlify</h3>
+            <img
+              src="https://api.netlify.com/api/v1/badges/402823d7-d00b-4b48-909e-ed07606182eb/deploy-status"
+              alt="Statut du déploiement Netlify"
+            />
+          </div>
+        </div>
       </section>
 
+      {/* Section des fonctionnalités */}
       <section className="features">
-        <div className="feature">
-          <h3>📜 Code Qualité</h3>
-          <p>Suivi avec GitHub Actions pour garantir la stabilité.</p>
-        </div>
-        <div className="feature">
-          <h3>🚀 Déploiement Automatique</h3>
-          <p>Chaque mise à jour est en ligne instantanément.</p>
-        </div>
-        <div className="feature">
-          <h3>✅ Tests Validés</h3>
-          <p>Exécution automatique des tests pour éviter les bugs.</p>
-        </div>
+        <h2>🌟 Pourquoi ce projet est impressionnant ?</h2>
+        <ul>
+          <li>✅ Intégration Continue avec GitHub Actions</li>
+          <li>✅ Déploiement Continu avec Netlify</li>
+          <li>✅ Design épuré et performant</li>
+        </ul>
       </section>
 
+      {/* Footer */}
       <footer>
         <p>Développé avec ❤️ par <strong>theblackhat17</strong></p>
       </footer>
