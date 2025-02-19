@@ -26,9 +26,9 @@ cd CC1-DEVOPS-3INFO
 
 ## 🏆 **Statut du Projet**
 
-| 🛠 **Tests Automatisés** | 🚀 **Déploiement Netlify** | 🔗 **Lien du Repo** |
-|----------------|-----------------|-----------------|
-| ![Tests](https://github.com/theblackhat17/CC1-DEVOPS-3INFO/actions/workflows/test.yml/badge.svg) | [![Netlify Status](https://api.netlify.com/api/v1/badges/402823d7-d00b-4b48-909e-ed07606182eb/deploy-status)](https://app.netlify.com/sites/tbh17/deploys) | 🔗 [CC1-DEVOPS-3INFO](https://github.com/theblackhat17/CC1-DEVOPS-3INFO) |
+| 🛠 **Tests Automatisés** | 🚀 **Déploiement Netlify** | 🔗 **Lien du Repo** | 🌍 **Lien du Site** |
+|----------------|-----------------|-----------------|-----------------|
+| ![Tests](https://github.com/theblackhat17/CC1-DEVOPS-3INFO/actions/workflows/test.yml/badge.svg) | [![Netlify Status](https://api.netlify.com/api/v1/badges/402823d7-d00b-4b48-909e-ed07606182eb/deploy-status)](https://app.netlify.com/sites/tbh17/deploys) | 🔗 [CC1-DEVOPS-3INFO](https://github.com/theblackhat17/CC1-DEVOPS-3INFO) | 🌍 [Visiter le site](https://tbh17.netlify.app/) |
 
 ---
 
