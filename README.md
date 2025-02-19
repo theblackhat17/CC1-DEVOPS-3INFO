@@ -9,10 +9,6 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 3. Affichez les résultats des tests dans ce fichier README.
 4. Implémentez une github action pour déployer automatiquement le site sur un hebergement gratuit (Netlify)
 
-## Test Results
-
-Test de push
-
 ## Badge d'avancement des Tests
 
 ![Tests](https://github.com/theblackhat17/CC1-DEVOPS-3INFO/actions/workflows/test.yml/badge.svg)
